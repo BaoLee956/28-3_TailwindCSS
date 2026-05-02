@@ -1,0 +1,26 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0ltk_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0exsytd._.js",
+    "static/chunks/0ltk_next_dist_compiled_next-devtools_index_096a7lb.js",
+    "static/chunks/0ltk_next_dist_compiled_react-dom_0ishl2a._.js",
+    "static/chunks/0ltk_next_dist_compiled_react-server-dom-turbopack_0jfsdvs._.js",
+    "static/chunks/0ltk_next_dist_compiled_0a9f~wc._.js",
+    "static/chunks/0ltk_next_dist_client_0~0v8ec._.js",
+    "static/chunks/0ltk_next_dist_0xc8ecq._.js",
+    "static/chunks/0ltk_@swc_helpers_cjs_0jubb2-._.js",
+    "static/chunks/BTTuan7_NguyenLeGiaBao_N23DCCN074_0rqeker._.js",
+    "static/chunks/turbopack-BTTuan7_NguyenLeGiaBao_N23DCCN074_0js~egy._.js"
+  ]
+};

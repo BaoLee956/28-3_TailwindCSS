@@ -1,0 +1,18 @@
+{
+  "node": {
+    "405947b87761c970b39f8dda4d17abafc4ab52d424": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/BTTuan7_NguyenLeGiaBao_N23DCCN074/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/BTTuan7_NguyenLeGiaBao_N23DCCN074/components/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "registerAction",
+          "filename": "BTTuan7_NguyenLeGiaBao_N23DCCN074/components/actions.ts"
+        }
+      },
+      "filename": "BTTuan7_NguyenLeGiaBao_N23DCCN074/components/actions.ts",
+      "exportedName": "registerAction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "XmruWNxZmyTuYrwuuhYuEqULMUdO/vEOWyBaM2yZyXw="
+}
